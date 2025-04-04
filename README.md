@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amintai&show_icons=true&locale=en" alt="dipalkharva" /></p>
 
-<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dipalkharva&theme=dark&short_numbers=true" alt="dipalkharva" /></a></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dipalkharva&theme=dark&short_numbers=true" alt="dipalkharva" /></a>
