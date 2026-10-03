@@ -1,164 +1,98 @@
 <h1 align="center">Hi 👋, I'm Dipal Kharva</h1>
-<h3 align="center">An enthusiastic Full-Stack Developer with eight years of experience in Node.js, Angular, React, and the MEAN/MERN stack,AWS services.</h3>
+<h3 align="center">Senior Full Stack Engineer | Module Lead</h3>
 
-
-# Dipal Kharva — Portfolio
-
-Personal portfolio site built with **Next.js 15 (App Router)**, **React 19**, **TypeScript**, and **Tailwind CSS v4**.
-
-Fully static — every route is prerendered at build time, so it can be hosted anywhere (Vercel, Netlify, Cloudflare Pages, GitHub Pages, S3).
+<p align="center">
+Vadodara, Gujarat, India · +91 97732 83074 · <a href="mailto:dipalkharva1@gmail.com">dipalkharva1@gmail.com</a> · <a href="https://linkedin.com/in/dipalkharva">linkedin.com/in/dipalkharva</a>
+</p>
 
 ---
 
-## Quick start
+## Professional Summary
 
-```bash
-npm install
-npm run dev
-```
+Senior Full Stack Engineer and Team Lead with 9+ years of experience designing, building, and leading scalable web applications and microservices using Node.js, NestJS, Angular, React, and AWS for enterprise and SaaS products.
 
-Open http://localhost:3000
-
-Other scripts:
-
-```bash
-npm run build   # production build
-npm start       # serve the production build locally
-```
+- **End-to-end product delivery:** system architecture, REST/GraphQL API development, database optimization, and cloud deployment.
+- **Agile/Scrum delivery:** sprint planning, code reviews, mentoring, and cross-functional collaboration with product owners and architects.
+- **Secure, high-availability systems:** authentication, authorization, and data protection, maintaining 99.9% uptime.
+- **Applied AI:** integrating AI capabilities such as OCR and AI-based face matching into production identity and verification platforms, and building data-driven analytics products.
 
 ---
 
-## Editing content
+## Technical Skills
 
-**All copy lives in one file:** [`src/data/resume.ts`](src/data/resume.ts)
-
-| What you want to change | Where |
+| Category | Skills |
 | --- | --- |
-| Name, role, email, phone, links | `profile` |
-| Hero stat tiles | `stats` |
-| Skill categories and chips | `skillGroups` |
-| Job history and bullets | `experience` |
-| Project cards | `projects` |
-| Degrees | `education` |
-| Nav items | `navLinks` |
-| SEO title/description/domain | `site` |
-
-Nothing in `src/components` needs to change to update the résumé content.
-
-**Other things you'll likely want to update:**
-
-- `public/Dipal_Kharva_Resume.pdf` — the downloadable résumé. Replace the file, keep the name (or update `profile.resumeFile`).
-- `profile.github` — currently a guess at `github.com/dipalkharva`. Point it at your real handle, or delete the field and the GitHub links in `Hero.tsx`, `Contact.tsx`, and `Footer.tsx`.
-- `profile.phone` — delete this line if you'd rather not publish your number; then remove the phone card in `Contact.tsx`.
-- `src/app/icon.svg` — the favicon.
-- Theme colors — the `:root` and `.dark` blocks in `src/app/globals.css`.
+| Languages & Frameworks | Node.js, NestJS, Angular (2+), React.js, Next.js, MEAN/MERN stack |
+| APIs & Architecture | REST APIs, GraphQL, Microservices, MVC, Event-Driven Architecture, System Design |
+| Databases | MySQL, MongoDB, Data Modeling, Query Optimization |
+| Cloud & DevOps | AWS (ECS), Docker, CI/CD Pipelines, Release & Environment Management |
+| AI & Automation | OCR, AI-based Face Matching, AI Service Integration via APIs, Workflow Automation, Analytics Platforms |
+| Security | Authentication & Authorization, RBAC, Data Encryption, Secure APIs |
+| Testing | Unit Testing, Integration Testing, Jasmine, Mockito |
+| Tools & Platforms | Git, GitHub, Bitbucket, Linux, Windows |
+| Leadership & Process | Team Leadership, Mentoring, Code Reviews, Agile/Scrum, Sprint Planning, Resource Planning |
 
 ---
 
-## Going live
+## Professional Experience
 
-### Option 1 — Vercel (recommended)
+### Module Lead — PMC India, Vadodara, India
+*May 2025 – Present*
 
-Vercel is built by the Next.js team; zero configuration, free for personal sites, automatic HTTPS and preview deploys on every push.
+- Led migration of legacy Software AG webMethods integrations to containerized Node.js/NestJS microservices on AWS ECS, using REST APIs and event-driven design to support 10K+ users with high availability.
+- Designed retail product–portal integration capabilities (portal configuration, product synchronization, order/data exchange) with bidirectional communication, similar to an e-commerce marketplace architecture.
+- Owned end-to-end module delivery: architecture, development, integration, code quality, deployment, and production support; translated business requirements into RESTful APIs and integration workflows.
+- Provided technical leadership and mentoring; drove API standards, code reviews, performance tuning, refactoring, and CI/CD automation while maintaining 99.9% system availability.
 
-1. Push this folder to a GitHub repo:
+### Team Lead & Full Stack Developer — Skill Quotient (Remote), Kuala Lumpur, Malaysia
+*Nov 2021 – Mar 2025*
 
-```bash
-git init
-git add .
-git commit -m "Portfolio site"
-git branch -M main
-git remote add origin https://github.com/<your-username>/portfolio.git
-git push -u origin main
-```
+- Led design, development, and delivery of scalable enterprise and SaaS applications supporting 10K+ users, focusing on performance, reliability, security, and maintainability.
+- Architected full-stack applications using Node.js, NestJS, React, Angular, REST APIs, MySQL, and AWS.
+- Authored and reviewed technical specifications, system architecture, and API designs, translating business requirements into scalable solutions.
+- Collaborated with product owners, stakeholders, and architects to define requirements, API contracts, and deployment plans.
 
-2. Go to https://vercel.com, sign in with GitHub, **Add New → Project**, import the repo.
-3. Vercel auto-detects Next.js. Click **Deploy**. You get a live URL like `portfolio-xyz.vercel.app` in about a minute.
-4. Every future `git push` to `main` redeploys automatically.
+**Key Projects**
 
-Or deploy straight from this machine without GitHub:
+- **SQe-IMS (Secure Invoice Management System):** Secure, scalable invoice management platform using Node.js, NestJS, React, REST APIs, and MySQL.
+- **My Expert Plugin (Outlook Productivity Tool):** Angular/.NET Outlook plugin that reduced meeting preparation time by 40%.
+- **Cerebro / Wizard (Enterprise Analytics Portal):** Self-service analytics platform integrating 50+ enterprise data sources for PETRONAS business divisions.
+- **Repotomatic (Reporting & Document Management):** Internal reporting and document management platform generating 10,000+ documents annually.
 
-```bash
-npx vercel
-npx vercel --prod
-```
+### Team Lead & Full Stack Developer — AKCESS (Remote), London, England
+*Mar 2020 – Nov 2021*
 
-**Custom domain:** buy a domain (Namecheap, Cloudflare, GoDaddy — around $10–15/yr), then in Vercel go to **Project → Settings → Domains → Add**, and set the DNS records Vercel shows you at your registrar. HTTPS is issued automatically.
+Led development of digital identity, onboarding, and verification platforms.
 
-After the domain is live, set the real URL so SEO tags and the sitemap are correct — in Vercel **Settings → Environment Variables**:
+- **Online Document Verification Portal (MEAN):** Accelerated customer onboarding by 50% using OCR and AI-based face matching with 99.9% accuracy.
+- **Banking Portal (MERN):** Secure eKYC and digital identity solutions with 100% encrypted document storage, e-signatures, and secure data sharing.
+- **Education Portal (MERN):** Reduced operational costs by 30% through digital campus management, access control, attendance, passwordless login, and payments.
+- **SME Portal (MERN):** Digital onboarding and employee ID management, cutting administrative effort by 40% through automation and notifications.
 
-```
-NEXT_PUBLIC_SITE_URL = https://yourdomain.com
-```
+### Full Stack Developer — Rigel Networks, Vadodara, India
+*Sep 2019 – Apr 2020*
 
-Then redeploy.
+- **Jewel Cloud (E-Commerce Platform, MERN/MEAN):** End-to-end jewelry ERP and e-commerce solution, reducing operational complexity by 50% through automation.
+- **Internal Portal Application:** Improved employee task and data management, boosting productivity by 30%.
 
-### Option 2 — Netlify or Cloudflare Pages
+### Full Stack Developer — Adrixus Tech Studio, Vadodara, India
+*May 2019 – Sep 2019*
 
-Both connect to the same GitHub repo.
+- **Trailx Vehicle Tracking System:** Real-time GPS vehicle tracking with 99.9% location accuracy, plus alerts and analytics for route history, geofencing, and performance.
 
-- Build command: `npm run build`
-- Output directory: `.next` (Netlify uses the official Next.js runtime; Cloudflare Pages: pick the Next.js preset)
+### Junior Node.js Developer — Vistaura, Vadodara, India
+*May 2017 – May 2019*
 
-### Option 3 — GitHub Pages (free, static)
-
-This project supports a fully static export.
-
-```bash
-# Windows PowerShell
-$env:NEXT_OUTPUT="export"; npm run build
-```
-
-```bash
-# macOS / Linux / Git Bash
-NEXT_OUTPUT=export npm run build
-```
-
-That writes a static site to `./out`.
-
-A ready-made workflow is included at `.github/workflows/deploy-pages.yml`. To use it:
-
-1. Push the repo to GitHub.
-2. Repo **Settings → Pages → Build and deployment → Source: GitHub Actions**.
-3. If you're deploying to a **project** site (`username.github.io/portfolio`), set `NEXT_BASE_PATH` to `/portfolio` in the workflow. For a **user** site (`username.github.io`), leave it empty.
-
-> Note: GitHub Pages serves static files only. If you later add API routes, server actions, or image optimization, move to Vercel.
+- Designed RESTful APIs and optimized SQL/NoSQL databases, improving system performance by 30%.
+- Implemented security best practices, ensuring 99.9% system uptime.
+- **ERP System:** Automated business processes, boosting efficiency by 30%.
+- **Student Visa Processing System:** Digitized visa workflows and automated approvals, reducing timelines by 40%.
+- **Split-Up Expense Management:** Simplified group expense tracking and settlements, cutting financial management time by 50%.
+- **Vehicle Auction Platform:** Real-time bidding and secure transactions, accelerating auction cycles by 30%.
 
 ---
 
-## Adding a working contact form later
+## Education
 
-The contact section uses `mailto:` links, which keeps the site fully static. If you want a real form:
-
-- **Easiest:** [Formspree](https://formspree.io) or [Web3Forms](https://web3forms.com) — a plain `<form action="...">`, no backend, works with static export.
-- **More control:** add `src/app/api/contact/route.ts` and send mail with [Resend](https://resend.com). This requires a Node host (Vercel/Netlify), not GitHub Pages.
-
----
-
-## Project structure
-
-```
-src/
-  app/
-    layout.tsx      # metadata, fonts, JSON-LD, no-flash theme script
-    page.tsx        # section composition
-    globals.css     # theme tokens, dark mode, animations
-    icon.svg        # favicon
-    robots.ts       # /robots.txt
-    sitemap.ts      # /sitemap.xml
-  components/       # Nav, Hero, About, Experience, Projects, Skills, Contact, Footer
-  data/
-    resume.ts       # ← all content
-public/
-  Dipal_Kharva_Resume.pdf
-```
-
-## What's built in
-
-- Light/dark theme with a toggle, saved to `localStorage`, no flash on load
-- Scroll-spy navigation with an active-section indicator, plus a mobile menu
-- Scroll-reveal animations that respect `prefers-reduced-motion`
-- Project filtering by company
-- SEO: Open Graph, Twitter cards, `Person` JSON-LD, sitemap, robots
-- Accessibility: skip link, ARIA labels, keyboard focus states, AA colour contrast
-- Print stylesheet
+- **Master of Computer Applications (MCA)** — The Maharaja Sayajirao University of Baroda, 2015 – 2018
+- **Bachelor of Computer Applications (BCA)** — The Maharaja Sayajirao University of Baroda, 2011 – 2015
