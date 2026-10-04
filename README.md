@@ -7,15 +7,15 @@ Vadodara, Gujarat, India · +91 97732 83074 · <a href="mailto:dipalkharva1@gmai
 
 ---
 
-## Professional Summary
+👨‍💻 About Me
 
-Senior Full Stack Engineer and Team Lead with 9+ years of experience designing, building, and leading scalable web applications and microservices using Node.js, NestJS, Angular, React, and AWS for enterprise and SaaS products.
+Senior Full-Stack Engineer with 9+ years of professional JavaScript experience (Node.js, React.js, Next.js, TypeScript) building secure, highly available enterprise SaaS applications across SaaS, fintech, ad-tech, and digital-identity platforms.
 
-- **End-to-end product delivery:** system architecture, REST/GraphQL API development, database optimization, and cloud deployment.
-- **Agile/Scrum delivery:** sprint planning, code reviews, mentoring, and cross-functional collaboration with product owners and architects.
-- **Secure, high-availability systems:** authentication, authorization, and data protection, maintaining 99.9% uptime.
-- **Applied AI:** integrating AI capabilities such as OCR and AI-based face matching into production identity and verification platforms, and building data-driven analytics products.
-
+🚢 Cloud & DevOps: containerized microservices on AWS (ECS) with Docker, Kubernetes, and CI/CD pipelines
+🧩 Architecture: design patterns (HOC, render props, Atomic Design) and event-driven systems
+🔐 Security-focused: RBAC, encryption, secure API design, consent-based data sharing
+👥 Leadership: owns work end-to-end, from code and review to deployment and production support; mentors engineers and works closely with product and non-technical stakeholders
+🤖 AI-assisted development: LLM-assisted and agentic workflows, prompt engineering, Claude Code, Cursor
 ---
 
 ## Technical Skills
