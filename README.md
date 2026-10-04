@@ -7,8 +7,7 @@ Vadodara, Gujarat, India · +91 97732 83074 · <a href="mailto:dipalkharva1@gmai
 
 ---
 
-👨‍💻 About Me
-
+**👨‍💻 About Me**
 Senior Full-Stack Engineer with 9+ years of professional JavaScript experience (Node.js, React.js, Next.js, TypeScript) building secure, highly available enterprise SaaS applications across SaaS, fintech, ad-tech, and digital-identity platforms.
    
  - **End-to-end product delivery:** system architecture, REST/GraphQL API development, database optimization, and cloud deployment.
