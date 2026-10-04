@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dipal Kharva</h1>
+<!-- <h1 align="center">Hi 👋, I'm Dipal Kharva</h1> -->
 <h3 align="center">Senior Full Stack Engineer | Module Lead</h3>
 
 <p align="center">
