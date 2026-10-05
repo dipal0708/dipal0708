@@ -67,7 +67,7 @@ Senior Full-Stack Engineer with 9+ years of professional JavaScript experience (
 *Mar 2020 – Nov 2021*
 
 Led development of digital identity, onboarding, and verification platforms.
-
+**Key Projects**
 - **Online Document Verification Portal (MEAN):** Accelerated customer onboarding by 50% using OCR and AI-based face matching with 99.9% accuracy.
 - **Banking Portal (MERN):** Secure eKYC and digital identity solutions with 100% encrypted document storage, e-signatures, and secure data sharing.
 - **Education Portal (MERN):** Reduced operational costs by 30% through digital campus management, access control, attendance, passwordless login, and payments.
@@ -75,7 +75,7 @@ Led development of digital identity, onboarding, and verification platforms.
 
 ### Full Stack Developer — Rigel Networks, Vadodara, India
 *Sep 2019 – Apr 2020*
-
+**Key Projects**
 - **Jewel Cloud (E-Commerce Platform, MERN/MEAN):** End-to-end jewelry ERP and e-commerce solution, reducing operational complexity by 50% through automation.
 - **Internal Portal Application:** Improved employee task and data management, boosting productivity by 30%.
 
@@ -83,12 +83,13 @@ Led development of digital identity, onboarding, and verification platforms.
 *May 2019 – Sep 2019*
 
 - **Trailx Vehicle Tracking System:** Real-time GPS vehicle tracking with 99.9% location accuracy, plus alerts and analytics for route history, geofencing, and performance.
-
+**Key Projects**
 ### Junior Node.js Developer — Vistaura, Vadodara, India
 *May 2017 – May 2019*
 
 - Designed RESTful APIs and optimized SQL/NoSQL databases, improving system performance by 30%.
 - Implemented security best practices, ensuring 99.9% system uptime.
+- **Key Projects**
 - **ERP System:** Automated business processes, boosting efficiency by 30%.
 - **Student Visa Processing System:** Digitized visa workflows and automated approvals, reducing timelines by 40%.
 - **Split-Up Expense Management:** Simplified group expense tracking and settlements, cutting financial management time by 50%.
